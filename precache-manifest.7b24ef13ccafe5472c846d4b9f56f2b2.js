@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7c456d3905e3f44b6c208b7c346ce6ea",
+    "revision": "ddc14600c3321d5a76e13fe063ea3dd8",
     "url": "/TemperatureCalcReact/index.html"
   },
   {
