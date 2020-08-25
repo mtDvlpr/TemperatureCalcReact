@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/TemperatureCalcReact/static/css/main.36497136.chunk.css",
-    "main.js": "/TemperatureCalcReact/static/js/main.676c1db0.chunk.js",
-    "main.js.map": "/TemperatureCalcReact/static/js/main.676c1db0.chunk.js.map",
-    "runtime-main.js": "/TemperatureCalcReact/static/js/runtime-main.e61aa5c4.js",
-    "runtime-main.js.map": "/TemperatureCalcReact/static/js/runtime-main.e61aa5c4.js.map",
-    "static/js/2.329f147c.chunk.js": "/TemperatureCalcReact/static/js/2.329f147c.chunk.js",
-    "static/js/2.329f147c.chunk.js.map": "/TemperatureCalcReact/static/js/2.329f147c.chunk.js.map",
-    "index.html": "/TemperatureCalcReact/index.html",
-    "precache-manifest.7b24ef13ccafe5472c846d4b9f56f2b2.js": "/TemperatureCalcReact/precache-manifest.7b24ef13ccafe5472c846d4b9f56f2b2.js",
-    "service-worker.js": "/TemperatureCalcReact/service-worker.js",
-    "static/css/main.36497136.chunk.css.map": "/TemperatureCalcReact/static/css/main.36497136.chunk.css.map",
-    "static/js/2.329f147c.chunk.js.LICENSE.txt": "/TemperatureCalcReact/static/js/2.329f147c.chunk.js.LICENSE.txt"
+    "main.css": "/temperature-calc-react/static/css/main.36497136.chunk.css",
+    "main.js": "/temperature-calc-react/static/js/main.676c1db0.chunk.js",
+    "main.js.map": "/temperature-calc-react/static/js/main.676c1db0.chunk.js.map",
+    "runtime-main.js": "/temperature-calc-react/static/js/runtime-main.dbe9c6e8.js",
+    "runtime-main.js.map": "/temperature-calc-react/static/js/runtime-main.dbe9c6e8.js.map",
+    "static/js/2.329f147c.chunk.js": "/temperature-calc-react/static/js/2.329f147c.chunk.js",
+    "static/js/2.329f147c.chunk.js.map": "/temperature-calc-react/static/js/2.329f147c.chunk.js.map",
+    "index.html": "/temperature-calc-react/index.html",
+    "precache-manifest.d67fe47b42961b8b3c2e52b120f8def6.js": "/temperature-calc-react/precache-manifest.d67fe47b42961b8b3c2e52b120f8def6.js",
+    "service-worker.js": "/temperature-calc-react/service-worker.js",
+    "static/css/main.36497136.chunk.css.map": "/temperature-calc-react/static/css/main.36497136.chunk.css.map",
+    "static/js/2.329f147c.chunk.js.LICENSE.txt": "/temperature-calc-react/static/js/2.329f147c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e61aa5c4.js",
+    "static/js/runtime-main.dbe9c6e8.js",
     "static/js/2.329f147c.chunk.js",
     "static/css/main.36497136.chunk.css",
     "static/js/main.676c1db0.chunk.js"
